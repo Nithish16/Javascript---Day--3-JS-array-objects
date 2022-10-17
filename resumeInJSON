@@ -1,0 +1,40 @@
+{
+“Basics”: { 
+“Name”: “Nithish”,
+“Label”: “Full stack developer”,
+“Phone Number”: “9786347685”,
+“Email”: “nithish.n.90@gmail.com”,
+“summary” : “With my 7+ years of experience which is known for demonstrating commitment towards delivering results and customer delight. Adapt to change course to meet fast moving towards targets. I Enjoy working in an environment that involves collaboration with technology. Diligent at measuring and driving teams to meet SLA. Other key skills that I consistently demonstrate include reporting, data analysis, and escalation management metrics”,
+
+“Location”: {
+“Address”:  “21, AM Nagar, Amgarai, Lalgudi”,
+“District”: “trichy”,
+“pincode” : “621703”,
+“State”: “tamil nadu”,
+“Country”: “india”,
+},
+},
+
+“Work”: [{
+“Name”: “amazon development centre”,
+“Position”: “lead”,
+“Location”: “chennai”,
+}],
+
+“Education”: [{
+“College name”; “Srimad andavan arts and science college”,
+“Area”: “computer application”,
+“Study type”: “bachelor”,
+}],
+
+“Skills”: [{
+“Name”: “web development”,
+“Level”: “beginner”,
+“Key skills”: “HTML, CSS,Javascript”,
+}],
+
+“Language known”: [{
+“Language”: “tamil, english”,
+“Fluency”: “Professional”,
+}],
+
